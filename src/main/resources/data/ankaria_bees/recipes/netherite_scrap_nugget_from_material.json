@@ -1,0 +1,12 @@
+{
+    "ingredients":  [
+                        {
+                            "item":  "minecraft:netherite_scrap"
+                        }
+                    ],
+    "result":  {
+                   "count":  9,
+                   "item":  "ankaria_bees:netherite_scrap_nugget"
+               },
+    "type":  "minecraft:crafting_shapeless"
+}

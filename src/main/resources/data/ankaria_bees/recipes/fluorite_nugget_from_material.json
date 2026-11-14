@@ -1,0 +1,18 @@
+{
+    "conditions":  [
+                       {
+                           "type":  "forge:mod_loaded",
+                           "modid":  "mekanism"
+                       }
+                   ],
+    "ingredients":  [
+                        {
+                            "item":  "mekanism:fluorite_gem"
+                        }
+                    ],
+    "result":  {
+                   "count":  9,
+                   "item":  "ankaria_bees:fluorite_nugget"
+               },
+    "type":  "minecraft:crafting_shapeless"
+}

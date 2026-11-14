@@ -1,0 +1,20 @@
+{
+  "item.ankaria_bees.copper_nugget": "Медный самородок",
+  "item.ankaria_bees.netherite_scrap_nugget": "Кусочек незеритового лома",
+  "item.ankaria_bees.fluorite_nugget": "Кусочек флюорита",
+  "item.ankaria_bees.mithril_nugget": "Мифриловый самородок",
+  "allele.forestry.bee_species.ankaria_bees.bee_iron": "Железная",
+  "allele.forestry.bee_species.ankaria_bees.bee_gold": "Золотая",
+  "allele.forestry.bee_species.ankaria_bees.bee_copper": "Медная",
+  "allele.forestry.bee_species.ankaria_bees.bee_ancient": "Древняя",
+  "allele.forestry.bee_species.ankaria_bees.bee_redstone": "Краснокаменная",
+  "allele.forestry.bee_species.ankaria_bees.bee_fluorite": "Флюоритовая",
+  "allele.forestry.bee_species.ankaria_bees.bee_steel": "Стальная",
+  "allele.forestry.bee_species.ankaria_bees.bee_lead": "Свинцовая",
+  "allele.forestry.bee_species.ankaria_bees.bee_osmium": "Осмиевая",
+  "allele.forestry.bee_species.ankaria_bees.bee_uranium": "Урановая",
+  "allele.forestry.bee_species.ankaria_bees.bee_bronze": "Бронзовая",
+  "allele.forestry.bee_species.ankaria_bees.bee_tin": "Оловянная",
+  "allele.forestry.bee_species.ankaria_bees.bee_mithril": "Мифриловая",
+  "allele.forestry.bee_effect.ankaria_bees.radiation": "Радиация"
+}

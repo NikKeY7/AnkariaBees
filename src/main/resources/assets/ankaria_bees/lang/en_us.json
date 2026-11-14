@@ -1,0 +1,20 @@
+{
+    "item.ankaria_bees.copper_nugget":  "Copper Nugget",
+    "item.ankaria_bees.netherite_scrap_nugget":  "Netherite Scrap Fragment",
+    "item.ankaria_bees.fluorite_nugget":  "Fluorite Fragment",
+    "item.ankaria_bees.mithril_nugget":  "Mithril Nugget",
+    "allele.forestry.bee_species.ankaria_bees.bee_iron":  "Iron",
+    "allele.forestry.bee_species.ankaria_bees.bee_gold":  "Golden",
+    "allele.forestry.bee_species.ankaria_bees.bee_copper":  "Copper",
+    "allele.forestry.bee_species.ankaria_bees.bee_ancient":  "Ancient",
+    "allele.forestry.bee_species.ankaria_bees.bee_redstone":  "Redstone",
+    "allele.forestry.bee_species.ankaria_bees.bee_fluorite":  "Fluorite",
+    "allele.forestry.bee_species.ankaria_bees.bee_steel":  "Steel",
+    "allele.forestry.bee_species.ankaria_bees.bee_lead":  "Lead",
+    "allele.forestry.bee_species.ankaria_bees.bee_osmium":  "Osmium",
+    "allele.forestry.bee_species.ankaria_bees.bee_uranium":  "Uranium",
+    "allele.forestry.bee_species.ankaria_bees.bee_bronze":  "Bronze",
+    "allele.forestry.bee_species.ankaria_bees.bee_tin":  "Tin",
+    "allele.forestry.bee_species.ankaria_bees.bee_mithril":  "Mithril",
+    "allele.forestry.bee_effect.ankaria_bees.radiation": "Radiation"
+}

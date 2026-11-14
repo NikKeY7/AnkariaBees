@@ -1,0 +1,16 @@
+{
+    "key":  {
+                "#":  {
+                          "item":  "ankaria_bees:netherite_scrap_nugget"
+                      }
+            },
+    "pattern":  [
+                    "###",
+                    "###",
+                    "###"
+                ],
+    "result":  {
+                   "item":  "minecraft:netherite_scrap"
+               },
+    "type":  "minecraft:crafting_shaped"
+}

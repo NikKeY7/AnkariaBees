@@ -1,0 +1,12 @@
+{
+    "ingredients":  [
+                        {
+                            "item":  "minecraft:copper_ingot"
+                        }
+                    ],
+    "result":  {
+                   "count":  9,
+                   "item":  "ankaria_bees:copper_nugget"
+               },
+    "type":  "minecraft:crafting_shapeless"
+}

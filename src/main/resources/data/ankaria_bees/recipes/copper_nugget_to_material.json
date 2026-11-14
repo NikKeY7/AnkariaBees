@@ -1,0 +1,16 @@
+{
+    "key":  {
+                "#":  {
+                          "item":  "ankaria_bees:copper_nugget"
+                      }
+            },
+    "pattern":  [
+                    "###",
+                    "###",
+                    "###"
+                ],
+    "result":  {
+                   "item":  "minecraft:copper_ingot"
+               },
+    "type":  "minecraft:crafting_shaped"
+}

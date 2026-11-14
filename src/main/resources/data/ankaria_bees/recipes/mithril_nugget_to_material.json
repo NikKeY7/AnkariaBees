@@ -1,0 +1,22 @@
+{
+    "conditions":  [
+                       {
+                           "type":  "forge:mod_loaded",
+                           "modid":  "irons_spellbooks"
+                       }
+                   ],
+    "key":  {
+                "#":  {
+                          "item":  "ankaria_bees:mithril_nugget"
+                      }
+            },
+    "pattern":  [
+                    "###",
+                    "###",
+                    "###"
+                ],
+    "result":  {
+                   "item":  "irons_spellbooks:mithril_ingot"
+               },
+    "type":  "minecraft:crafting_shaped"
+}
